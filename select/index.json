@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "disarankan di bandung",
+  "base_artist": "Dongker dan Jason Ranti",
+  "createdAt": "2026-04-01T12:15:06.026882Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "disarankan di bandung",
+      "artist": "Dongker, Jason Ranti",
+      "has_synced": true,
+      "path": "select/01_disarankan_di_bandung_Dongker,_Jason_Ranti.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "disarankan di bandung",
+      "artist": "Dongker",
+      "has_synced": true,
+      "path": "select/02_disarankan_di_bandung_Dongker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "disarankan di bandung",
+      "artist": "Jason Ranti",
+      "has_synced": true,
+      "path": "select/03_disarankan_di_bandung_Jason_Ranti.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "disarankan di bandung (acoustic)",
+      "artist": "Dongker, Jason Ranti",
+      "has_synced": false,
+      "path": "select/04_disarankan_di_bandung_(acoustic)_Dongker,_Jason_Ranti.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "disarankan di bandung",
+      "artist": "Dongker and Jason Ranti",
+      "has_synced": true,
+      "path": "select/05_disarankan_di_bandung_Dongker_and_Jason_Ranti.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "disarankan di bandung (acoustic)",
+      "artist": "Song, Dongker, Jason Ranti",
+      "has_synced": false,
+      "path": "select/06_disarankan_di_bandung_(acoustic)_Song,_Dongker,_Jason_Ranti.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "disarankan di bandung (acoustic)",
+      "artist": "Dongker",
+      "has_synced": false,
+      "path": "select/07_disarankan_di_bandung_(acoustic)_Dongker.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "disarankan di bandung (acoustic)",
+      "artist": "Dongker, Jason Ranti",
+      "has_synced": false,
+      "path": "select/08_disarankan_di_bandung_(acoustic)_Dongker,_Jason_Ranti.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "disarankan di bandung",
+      "artist": "Dongker dan Jason Ranti",
+      "has_synced": true,
+      "path": "select/09_disarankan_di_bandung_Dongker_dan_Jason_Ranti.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "disarankan di bandung",
+      "artist": "Dongker,Jason Ranti",
+      "has_synced": true,
+      "path": "select/10_disarankan_di_bandung_Dongker,Jason_Ranti.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "disarankan di bandung",
+      "artist": "Song, Dongker, Jason Ranti",
+      "has_synced": true,
+      "path": "select/11_disarankan_di_bandung_Song,_Dongker,_Jason_Ranti.lrc"
+    }
+  ]
+}
